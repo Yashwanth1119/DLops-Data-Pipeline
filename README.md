@@ -81,3 +81,6 @@ Would you like:
 - Dockerfile to containerize the whole project?
 - Add MongoDB → Streamlit viewer?
 
+## 🖼️ Streamlit UI Screenshot
+
+![Streamlit Screenshot](assets/output.png)

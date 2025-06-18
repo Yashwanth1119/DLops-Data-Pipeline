@@ -3,6 +3,6 @@ pydantic
 sqlalchemy
 psycopg2-binary
 faker
-fastapi
-uvicorn
 streamlit
+pandas
+pymongo

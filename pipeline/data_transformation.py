@@ -1,7 +1,3 @@
-import pandas as pd 
-
-def transform_data(df: pd.DataFrame) -> pd.DataFrame:
-    df['name'] = df['name'].str.title()
-    df['city'] = df['city'].str.upper()
+def transform_data(df):
+    df.columns = [col.lower().replace(" ", "_") for col in df.columns]
     return df
-    

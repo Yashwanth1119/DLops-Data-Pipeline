@@ -2,7 +2,6 @@
 
 This project demonstrates an end-to-end **Data Engineering pipeline** with:
 
-- Fake data generation (`Faker`)
 - ETL pipeline (`pandas`)
 - MongoDB storage
 - Streamlit UI to run everything
@@ -11,7 +10,6 @@ This project demonstrates an end-to-end **Data Engineering pipeline** with:
 
 ## 📁 Structure
 
-- `generate_data.py`: creates 100K fake records
 - `main.py`: runs ETL and loads MongoDB
 - `app.py`: Streamlit UI
 - `pipeline/`: modular ETL scripts
@@ -62,7 +60,7 @@ dlops-data-pipeline/
 * Add Prefect or Airflow orchestration
 * Visualize MongoDB data in Streamlit
 
-## yaml
+
 
 ---
 

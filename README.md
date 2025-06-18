@@ -81,4 +81,3 @@ Would you like:
 - Dockerfile to containerize the whole project?
 - Add MongoDB → Streamlit viewer?
 
-![Alt text](path/to/Screenshot 2025-06-18 124452.png)

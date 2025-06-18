@@ -1,6 +1,6 @@
-# DLOps Data Pipeline (Streamlit + MongoDB + Faker)
+# DLOps Data Pipeline (Streamlit + MongoDB)
 
-This project demonstrates an end-to-end **Data Engineering pipeline** with:
+This project demonstrates an end-to-end **Data Logistics pipeline** with:
 
 - ETL pipeline (`pandas`)
 - MongoDB storage
